@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">统计分析</string>
+
+    <string name="tab_text_1">分井口统计</string>
+    <string name="tab_text_2">分站点统计</string>
+    <string name="tab_text_3">详细数据</string>
+    <string name="action_settings">筛选</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="error_qurey_same_time">获取日期同比线形图错误</string>
+    <string name="error_qurey_line">获取井口同比线形图错误</string>
+    <string name="error_qurey_pie">获取井口同比饼形图错误</string>
+    <string-array name="conditions_time">
+        <item>本日</item>
+        <item>本月</item>
+        <item>本年</item>
+    </string-array>
+</resources>
